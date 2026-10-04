@@ -397,15 +397,6 @@
    }
   },
   {
-   "key": "py_4KAV",
-   "name": "4KAV[py]",
-   "type": 3,
-   "api": "./py/4KAV.py",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1
-  },
-  {
    "key": "4",
    "name": "--- 4 ---"
   },
